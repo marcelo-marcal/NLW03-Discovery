@@ -29,7 +29,7 @@ Projeto construído na Next Level Week #03 - Trilha Discovery (Desafio do if Ter
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - <img src="https://img.shields.io/badge/---HTML5-orange" />
-- <img src="https://img.shields.io/badge/---CSS-blue" />
+- <img src="https://img.shields.io/badge/---CSS3-blue" />
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [SQLite](https://www.sqlite.org/index.html)
