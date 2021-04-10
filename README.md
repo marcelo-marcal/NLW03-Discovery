@@ -1,7 +1,9 @@
 # NLW03-Discovery
 Projeto construído na Next Level Week #03 - Trilha Discovery (Desafio do if Ternário Concluído)
 
-
+<h1 align="center">
+    <img alt="Happy" title="Happy" src="./.svg" />
+</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
