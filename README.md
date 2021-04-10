@@ -8,7 +8,7 @@ Projeto construído na Next Level Week #03 - Trilha Discovery (Desafio do if Ter
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
   
 </p>
 
@@ -21,7 +21,7 @@ Projeto construído na Next Level Week #03 - Trilha Discovery (Desafio do if Ter
 <br>
 
 <p align="center">
-  <img alt="Happy" width="100%">
+  
 </p>
 
 ## 🚀 Tecnologias
