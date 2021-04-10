@@ -21,7 +21,7 @@ Projeto construído na Next Level Week #03 - Trilha Discovery (Desafio do if Ter
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" width="100%">
 </p>
 
 ## 🚀 Tecnologias
