@@ -2,7 +2,7 @@
 Projeto construído na Next Level Week #03 - Trilha Discovery (Desafio do if Ternário Concluído)
 
 <h1 align="center">
-    <img src="happy.png" />
+    <img src="./public/images/Happy.png" />
 </h1>
 
 <p align="center">
