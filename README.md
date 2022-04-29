@@ -47,4 +47,17 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ---
 
+```
+- For install dependencies:
+$ npm install
+$ yarn
+
+- Execute application:
+$ npm start
+$ yarn start
+
+- Open your browser in:
+http://localhost:5500/
+```
+
 Feito com Rocketseat :
